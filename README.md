@@ -1,2 +1,3 @@
 # rest_api_examples
-Some examples for REST API
+
+Some examples for reading values from REST API interface
